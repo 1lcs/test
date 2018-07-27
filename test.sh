@@ -14,4 +14,6 @@ yourname="li"
 
 echo $yourname
 
+echoo "linux good!"
+
 
